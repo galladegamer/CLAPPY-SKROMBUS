@@ -213,7 +213,7 @@ header nav {
 header nav ul {
 	list-style: none;
 	margin: 0;
-	padding: 20px 0px 10px 0px;
+	padding: 20px 0 10px 0;
 }
 header nav ul li {
 	display: inline-block;
